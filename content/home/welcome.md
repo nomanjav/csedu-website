@@ -18,7 +18,7 @@ advanced:
 ---
 <!-- <link rel="stylesheet" type="text/css" media="all" href="home_styles.css" /> -->
 
-<mark> Primary Goals </mark>
+# Primary Goals
 
 - Enhance the quality of computing science education in Pakistan, at all levels.
 - Promote scholarship in the practice of computing science education as a subject in its own right: to discuss, deliberate, investigate, document, disseminate, and practice.
