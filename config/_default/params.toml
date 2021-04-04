@@ -51,7 +51,7 @@ org_name = ""
 description = "Computing Education in Pakistan"
 
 # Logo of webpage
-logo = logo.png
+logo = "logo.png"
 
 ############################
 ## Site Features
