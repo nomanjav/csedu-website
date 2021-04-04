@@ -1,7 +1,7 @@
 ---
 title: Interview with Aamir Shahzad
 date: 2021-04-03
-author: 
+author: junaid
 ---
 
 Aamir Shahzad has studied at NUST and LUMS in Pakistan. But he's also experienced being a student and researcher in France, Sweden, China, Singapore and Russia. As a teacher, he has experienced working at 5 Pakistani universities, and has been involved in curriculum development at departmental level as well.
