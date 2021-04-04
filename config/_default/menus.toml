@@ -18,6 +18,11 @@
   url = "people"
   weight = 30
 
+[[main]]
+  name = "Resources"
+  url = "resources"
+  weight = 30
+
 #[[main]]
 #  name = "Events"
 #  url = "event"
