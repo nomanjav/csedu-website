@@ -16,7 +16,7 @@ advanced:
   css_style:
   css_class:
 ---
-<link rel="stylesheet" type="text/css" media="all" href="home_styles.css" />
+<!-- <link rel="stylesheet" type="text/css" media="all" href="home_styles.css" /> -->
 
 <mark> Primary Goals </mark>
 
