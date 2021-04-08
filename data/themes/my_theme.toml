@@ -10,7 +10,7 @@ primary = "#E3E3E3"
 # Menu
 menu_primary = "#E3E3E3"
 menu_text = "#000000"
-menu_text_active = "#e76800"
+menu_text_active = "#990000"
 menu_title = "#000000"
 # link_hover = "#bbdefb"
 
