@@ -18,7 +18,7 @@ active: true
 
 item:
  - title: 
-    content: ''
+    content:
     align: center
     overlay_color: '#666'  # An HTML color value.
     overlay_img: slide0.jpg  # Image path relative to your `static/media/` folder
