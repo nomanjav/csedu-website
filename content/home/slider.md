@@ -15,23 +15,15 @@ height: 200px
 
 active: true
 
-
 item:
- - title: 
-    content:
-    align: center
-    overlay_color: '#666'  # An HTML color value.
-    overlay_img: slide0.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0.5
-
- - title: 
+  - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
     overlay_color: '#666'  # An HTML color value.
     overlay_img: slide1.jpeg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
      
- - title: 
+  - title: 
     content: 'Teaching is not entertainment, but it is unlikely to be successful unless it is interesting. [Herbert Simon]'
     # Choose `center`, `left`, or `right` alignment.
     align: center
