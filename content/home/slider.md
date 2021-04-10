@@ -17,8 +17,8 @@ active: true
 
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: 
+    content: 'Teaching is not entertainment, but it is unlikely to be successful unless it is interesting. [Herbert Simon]'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -29,10 +29,6 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
-    cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
   - title: Left
     content: 'I am left aligned 😄'
     align: left
