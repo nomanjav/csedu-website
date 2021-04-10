@@ -18,12 +18,19 @@ active: true
 
 item:
   - title: 
+    content:
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: slide0.jpg  # Image path relative to your `static/media/` folder
+    overlay_filter: 0.5
+
+ - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
-    overlay_color: '#444d46'
-    overlay_img: ''
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: slide1.jpeg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
- 
+     
   - title: 
     content: 'Teaching is not entertainment, but it is unlikely to be successful unless it is interesting. [Herbert Simon]'
     # Choose `center`, `left`, or `right` alignment.
@@ -31,7 +38,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: coders.jpg  # Image path relative to your `static/media/` folder
+    overlay_img: slide2.jpeg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
