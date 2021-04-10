@@ -11,11 +11,19 @@ interval: false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 200px
+height: 300px
 
 active: true
 
 item:
+  - title: 
+    content: ''
+    align: center
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: slide0.jpg  # Image path relative to your `static/media/` folder
+    overlay_filter: 0.5
+
+
   - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
