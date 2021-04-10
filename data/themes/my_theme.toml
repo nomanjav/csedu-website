@@ -11,7 +11,7 @@ primary = "#0000EE"
 menu_primary = "#E3E3E3"
 menu_text = "#0000EE"
 menu_text_active = "#990000"
-menu_title = "#000000"
+menu_title = "#03400f"
 # link_hover = "#bbdefb"
 
 # Home sections
