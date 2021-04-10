@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Fireside Chat Sessions"
 
 # View.
 #   1 = List
