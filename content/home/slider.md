@@ -20,7 +20,7 @@ item:
   - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
-    #overlay_color: '#333'
+    overlay_color: '#444d46'
     overlay_img: ''
     overlay_filter: 0.5
  
