@@ -31,7 +31,7 @@ item:
     overlay_img: slide1.jpeg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
      
-  - title: 
+ - title: 
     content: 'Teaching is not entertainment, but it is unlikely to be successful unless it is interesting. [Herbert Simon]'
     # Choose `center`, `left`, or `right` alignment.
     align: center
