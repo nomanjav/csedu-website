@@ -18,6 +18,13 @@ active: true
 item:
 
   - title: 
+    content: 'Rethinking Computing Education in Pakistan'
+    align: center
+    overlay_color: '#054814'  # An HTML color value.
+    #overlay_img: slide1.jpg  # Image path relative to your `static/media/` folder
+    overlay_filter: 0.1
+
+  - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
     overlay_color: '#054814'  # An HTML color value.
