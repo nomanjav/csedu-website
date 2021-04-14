@@ -19,15 +19,15 @@ item:
   - title: 
     content: ''
     align: center
-    overlay_color: white  # An HTML color value.
+    #overlay_color: white  # An HTML color value.
     overlay_img: recompute-logo.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0.5
+    overlay_filter: 0.1
 
 
   - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
-    overlay_color: white  # An HTML color value.
+    #overlay_color: white  # An HTML color value.
     #overlay_img: slide1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
      
