@@ -16,20 +16,11 @@ height: 210px
 active: true
 
 item:
-  - title: 
-    content: ''
-    align: center
-    background-position: center
-    background-repeat: no-repeat
-    #overlay_color: white  # An HTML color value.
-    overlay_img: recompute-logo.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0
-
 
   - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
-    #overlay_color: white  # An HTML color value.
+    overlay_color: '#8589ab'  # An HTML color value.
     #overlay_img: slide1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
      
@@ -39,7 +30,7 @@ item:
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#666'  # An HTML color value.
+    overlay_color: '#475f56'  # An HTML color value.
     #overlay_img: slide2.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
