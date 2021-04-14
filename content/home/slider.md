@@ -19,9 +19,11 @@ item:
   - title: 
     content: ''
     align: center
+    background-position: center
+    background-repeat: no-repeat
     #overlay_color: white  # An HTML color value.
     overlay_img: recompute-logo.jpg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0.1
+    overlay_filter: 0
 
 
   - title: 
