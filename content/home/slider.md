@@ -20,14 +20,14 @@ item:
   - title: 
     content: 'Rethinking Computing Education in Pakistan'
     align: center
-    overlay_color: '#2e8b57'  # An HTML color value.
+    overlay_color: '#990000'  # An HTML color value.
     #overlay_img: slide1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
 
   - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
-    overlay_color: '#2e8b57'  # An HTML color value.
+    overlay_color: '#990000'  # An HTML color value.
     #overlay_img: slide1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
      
@@ -37,7 +37,7 @@ item:
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#2e8b57'  # An HTML color value.
+    overlay_color: '#990000'  # An HTML color value.
     #overlay_img: slide2.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
