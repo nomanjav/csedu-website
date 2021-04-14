@@ -20,7 +20,7 @@ item:
   - title: 
     content: 'Education is not preparation for life; education is life itself. [John Dewey]'
     align: center
-    overlay_color: '#8589ab'  # An HTML color value.
+    overlay_color: '#475f56'  # An HTML color value.
     #overlay_img: slide1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5
      
